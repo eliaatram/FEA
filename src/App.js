@@ -1,11 +1,11 @@
-import React from "react";
-import { Route, Routes } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import LoginPage from "./pages/LoginPage";
 import HomePage from "./pages/HomePage";
 import MovieDetailsPage from "./pages/MovieDetailsPage";
 import NotFoundPage from "./pages/NotFoundPage";
-import PublicRoute from "./routes/PublicRoute"
-import PrivateRoute from "./routes/PrivateRoute"
+import PublicRoute from "./routes/PublicRoute";
+import PrivateRoute from "./routes/PrivateRoute";
+import "./styles/theme.css";
 
 const App = () => {
   return (
