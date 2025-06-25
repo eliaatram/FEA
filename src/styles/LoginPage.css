@@ -8,8 +8,9 @@
   background-position: center center;
 }
 
-#loginButton, #registerButton{
-    color: white;
+#loginButton,
+#registerButton {
+  color: white;
 }
 
 .login-wrapper {

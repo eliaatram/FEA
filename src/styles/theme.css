@@ -1,0 +1,10 @@
+/* theme.css */
+body.light {
+  background-color: #ffffff;
+  color: black;
+}
+
+body.dark {
+  background-color: #111827;
+  color: #f1f1f1;
+}
